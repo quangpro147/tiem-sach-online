@@ -1,0 +1,30 @@
+#left{
+    width: 600px;
+    height: 400px;
+    float: left;
+    margin-top: 10px;
+}
+#content{
+    float: left;
+    height: 468px;
+    margin-top: 80px;
+}
+#footer{
+    clear: both;
+    height: 100px;
+    border: 1px solid #cdcdcd;
+    background-color: #cdcdcd;
+    margin-top: 10px;
+}
+#footer p{
+    margin-top: 15px;
+    text-align: center;
+    font-weight: bold;
+}
+#head .d-flex .btn a{
+    text-decoration: none;
+    color: green;
+}
+#head .d-flex .btn a:hover{
+    color: white;
+}
